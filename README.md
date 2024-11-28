@@ -9,3 +9,14 @@ Our project served to create an energy efficient system that not only tackles th
 	As I mentioned earlier, the thermoelectric modules work under what is known as the Peltier effect but there is also another effect that they can function on known as the See-beck effect. By creating a temperature difference between two ends of a thermoelectric module, you can generate a certain amount of power. This is the See-beck effect and a thermoelectric module being used under this effect becomes a thermoelectric generator. The reason why I am explaining this effect is that our system also displays this by powering the array of LED bulbs (as shown) which has been connected to eight thermoelectric generators placed around our systems ventilation duct. By making use of the heat that is dissipated from the heatsinks as well as the cooling occurring in our system, we create a temperature difference thus producing a current from the thermoelectric generators. Our team did this because the end goal is for our system to be used in the school’s heat transfer lab in order to teach future students the possibility of radiant cooling and heating through the Peltier and See-beck effect.
 	All these features make up our product and we know that it has the potential to compete with current available systems
 
+ <img width="532" alt="image" src="https://github.com/user-attachments/assets/fc4165b2-9279-4b68-b102-a49f32fb2a4d">
+
+ <img width="376" alt="image" src="https://github.com/user-attachments/assets/d8288335-2718-47f8-9052-5698fc387ee9">
+
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/7b8a688c-e6e8-4d73-97d8-ac7ea0367e5e">
+
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/8f5cbc0b-dbe0-4cc0-989f-d7ef7e3b378b">
+
+
+
+
